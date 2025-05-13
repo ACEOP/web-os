@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ANURAG-PATHAK/Web-OS.git"
+    "url": "git+https://github.com/ACEOP/Web-OS.git"
   },
-  "author": "Anurag Pathak",
-  "license": "ISC",
+  "author": "ACE",
+  "license": "FREE",
   "bugs": {
-    "url": "https://github.com/ANURAG-PATHAK/Web-OS/issues"
+    "url": "https://github.com/ACEOP/Web-OS/issues"
   },
-  "homepage": "https://github.com/ANURAG-PATHAK/Web-OS#readme",
+  "homepage": "https://github.com/ACEOP/Web-OS#readme",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "expr-eval": "^2.0.2",
